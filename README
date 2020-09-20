@@ -1,0 +1,21 @@
+# Rumour Detection
+
+It is a project to classify tweets as rumour or non-rumour
+
+## Installation
+First install libraries using requirement.txt file.
+
+Run file run.linearcrfwithup.py to classify tweets. 
+Possible parameters to be pass are given in run-linear-crf-content+social.sh and similar shell files.
+
+Dataset is available in features folder which contains tweets event wise. 
+
+## Reference
+
+For better understanding of project read our research paper: https://authors.elsevier.com/c/1biw08nKGjCBPS
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
